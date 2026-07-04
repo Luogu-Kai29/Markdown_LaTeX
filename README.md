@@ -1,2 +1,3 @@
 本编辑器的渲染支持 Markdown 和 LaTeX，如果你需要使用以上渲染，请阅读“Markdown基本语法“（ https://baike.baidu.com/item/markdown/3245829#3 ） 和 KaTeX 帮助文档（ https://katex.org/docs/supported.html ）
+
 This editor supports rendering in Markdown and LaTeX. If you need to use these rendering formats, please refer to the "Basic Syntax of Markdown" ( https://baike.baidu.com/item/markdown/3245829#3 ) and the KaTeX documentation ( https://katex.org/docs/supported.html )
